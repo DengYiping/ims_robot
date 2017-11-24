@@ -6,7 +6,7 @@ handle_axes= axes('XLim', [-0.4,0.4], 'YLim', [-0.2,0.4], 'ZLim', [0,0.4]);
 xlabel('e_1'); 
 ylabel('e_2');
 zlabel('e_3');
-% the basis 
+% the basis e
 
 view(-130, 26);
 grid on;
